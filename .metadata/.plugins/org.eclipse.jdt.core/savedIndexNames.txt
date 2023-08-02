@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Aluno Tarde\Documents\deivid.java\logica_programacao_java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3050245340.index
+1866167541.index
